@@ -1,0 +1,10 @@
+secrets/*
+!secrets/.gitkeep
+data/*
+!data/.gitkeep
+reports/*
+!reports/.gitkeep
+content/drafts/*
+!content/drafts/.gitkeep
+config/site.json
+__pycache__/

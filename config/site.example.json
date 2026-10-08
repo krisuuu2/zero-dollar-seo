@@ -1,0 +1,15 @@
+{
+  "site_url": "https://example.com",
+  "gsc_property": "sc-domain:example.com",
+  "ga4_property_id": "123456789",
+  "business": "What the site sells or does, in one sentence.",
+  "customer": "Who buys, and what problem they are trying to solve.",
+  "offers": [{"name": "Main product or service", "url": "https://example.com/product"}],
+  "market": {"country": "us", "language": "en"},
+  "seed_topics": ["topic one", "topic two", "topic three"],
+  "competitors": ["competitor.com"],
+  "avoid": ["topics, claims or words the business never wants to use"],
+  "voice": "How the brand speaks, e.g. practical, friendly, expert-to-expert.",
+  "publishing": {"platform": "wordpress | other | drafts-only", "wp_url": "https://example.com", "wp_user": "", "auto_publish": false, "slot": "Saturday 10:00", "per_week": 1},
+  "google_sa_key": "secrets/google-sa.json"
+}
