@@ -105,5 +105,5 @@ No paid SEO tool was used. Your results will depend on your niche, your site and
 ---
 
 Made by **Kris**: AI automations you can use today.
-YouTube **[Content Auto Lab](https://www.youtube.com/@ContentAutoLab)** · Instagram **[@aipractically](https://www.instagram.com/aipractically/)**.
+YouTube **[Kris | AI, Practically](https://www.youtube.com/@aipracticallykris)** · Instagram **[@aipractically](https://www.instagram.com/aipractically/)**.
 Not affiliated with Google, Semrush, Ahrefs or OpenSEO. MIT licensed: use it, fork it, improve it. Pull requests are welcome.
